@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @giannicrivello
-- 👀 I’m interested in Linux Administration and Cloud Solutions
-- 🌱 I’m currently learning C
+- 👀 I’m interested in SRE, Machine Learning, and Linux Administration
+- 🌱 I’m currently learning time series forcasting
 - 📫 How to reach me gianni.crivello96@gmail.com
 
 <!---
