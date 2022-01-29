@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @giannicrivello
 - 👀 I’m interested in SRE, Machine Learning, and Linux Administration
-- 🌱 I’m currently learning time series forcasting
+- I'm currently working on kernel development
 - 📫 How to reach me gianni.crivello96@gmail.com
 
 <!---
