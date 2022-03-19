@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @giannicrivello
-- 👀 I’m interested in SRE, Machine Learning, and Linux Administration
-- I'm currently working on kernel development
+- 👀 I’m interested in system development
 - 📫 How to reach me gianni.crivello96@gmail.com
 
 <!---
