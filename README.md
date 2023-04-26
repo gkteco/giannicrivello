@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @giannicrivello ->
-- 📚 I am currently a full time Computer Science student looking for internships.
 - 🥋 I love coding competitions, participating in hackathons, and learning new things.
 - 👀 I have a passion for building software and helping people. (so please don't hesitate to reach out)
 - 📫 How to reach me gianni.crivello96@gmail.com
