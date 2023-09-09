@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @giannicrivello ->
-- Account Executive @ Techolution
-- Sales but techy
+- Enterprise Account Manager @ Techolution
 
 <!---
 giannicrivello/giannicrivello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
